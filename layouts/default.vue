@@ -82,13 +82,23 @@ export default {
         },
         {
           icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire',
+          title: 'Sell',
+          to: '/sell',
         },
         {
           icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire',
+          title: 'Edit',
+          to: '/edit',
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'Sales',
+          to: '/sales',
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'Employees',
+          to: '/employees',
         },
       ],
       miniVariant: false,
